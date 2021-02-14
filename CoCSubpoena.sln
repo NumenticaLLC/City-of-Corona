@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoCSubpoena", "CoCSubpoena\CoCSubpoena.csproj", "{45115C75-F35A-4700-A630-B354016B4E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoCSubpoena.WebResources", "CoCSubpoena.WebResources\CoCSubpoena.WebResources.csproj", "{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45115C75-F35A-4700-A630-B354016B4E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45115C75-F35A-4700-A630-B354016B4E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45115C75-F35A-4700-A630-B354016B4E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45115C75-F35A-4700-A630-B354016B4E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B15ECE1-9584-47A3-8807-F2450D59C096}
+	EndGlobalSection
+EndGlobal
