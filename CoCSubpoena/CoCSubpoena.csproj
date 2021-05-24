@@ -62,7 +62,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PreCreate_DocumentLocation_Plugin.cs" />
+    <Compile Include="PreCreateClaimNumberPlugin.cs" />
+    <Compile Include="PreUpdateClaimNumberPlugin.cs" />
+    <Compile Include="SharePoint\PreCreateDocumentLocation.cs" />
     <Compile Include="SubpoenaNumberPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

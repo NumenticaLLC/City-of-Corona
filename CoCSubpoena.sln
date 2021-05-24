@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoCSubpoena", "CoCSubpoena\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoCSubpoena.WebResources", "CoCSubpoena.WebResources\CoCSubpoena.WebResources.csproj", "{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{BA1147C2-7D59-4E74-8041-3A65212369ED}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\Sid_Core\Downloads\Subpoena Memo.docx = ..\..\Users\Sid_Core\Downloads\Subpoena Memo.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
