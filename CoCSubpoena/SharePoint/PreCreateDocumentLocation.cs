@@ -28,7 +28,7 @@ namespace CoCSubpoena.SharePoint {
 
                 switch (regardingObjectId.LogicalName.ToLower()) {
                     case "incident":
-                        UpdateURL(spdl, "coc_documentlocation", service, regardingObjectId, "incident", tracingService);
+                        //UpdateURL(spdl, "coc_documentlocation", service, regardingObjectId, "incident", tracingService);
                         break;
                     case "coc_tortclaims":
                         UpdateURL(spdl, "coc_sharepointurl", service, regardingObjectId, "coc_tortclaims", tracingService);
