@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoCSubpoena.WebResources", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{BA1147C2-7D59-4E74-8041-3A65212369ED}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\Users\Sid_Core\Downloads\Generate Tort Claims.docx = ..\..\Users\Sid_Core\Downloads\Generate Tort Claims.docx
 		..\..\Users\Sid_Core\Downloads\Subpoena Memo.docx = ..\..\Users\Sid_Core\Downloads\Subpoena Memo.docx
 	EndProjectSection
 EndProject
