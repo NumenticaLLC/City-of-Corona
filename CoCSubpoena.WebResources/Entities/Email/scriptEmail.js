@@ -1,7 +1,6 @@
 ﻿var Email = Email || {};
 Email = {
     onLoad: function (exeContext) {
-        //debugger;
         var Subpeona;
         var _formContext = exeContext.getFormContext();
         var _regardingobject = _formContext.getAttribute("regardingobjectid").getValue();
@@ -37,7 +36,6 @@ Email = {
                     if (this.status === 200) {
                         var _response = JSON.parse(this.response);
                         if (_response.value.length > 0) {
-                            //debugger;
                             Subpeona = _response.value;
                             _formContext.getAttribute("subject").setValue(Subpeona[0].coc_name);
                         }

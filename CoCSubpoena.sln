@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{
 		..\..\Users\Sid_Core\Downloads\Subpoena Memo.docx = ..\..\Users\Sid_Core\Downloads\Subpoena Memo.docx
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COC.FileMigration", "COC.FileMigration\COC.FileMigration.csproj", "{4F31BB73-10A9-4163-AB4C-96FACDF536EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{07FF0B7A-BF0E-4BE6-8317-E384614A856A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5A7FA53-EF3A-43E6-BE3C-57DBD39B0BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F31BB73-10A9-4163-AB4C-96FACDF536EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F31BB73-10A9-4163-AB4C-96FACDF536EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F31BB73-10A9-4163-AB4C-96FACDF536EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F31BB73-10A9-4163-AB4C-96FACDF536EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FF0B7A-BF0E-4BE6-8317-E384614A856A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FF0B7A-BF0E-4BE6-8317-E384614A856A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FF0B7A-BF0E-4BE6-8317-E384614A856A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FF0B7A-BF0E-4BE6-8317-E384614A856A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
